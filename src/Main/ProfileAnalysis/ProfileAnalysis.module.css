@@ -1,0 +1,62 @@
+.HashtagAnalysisForm {
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.HashtagAnalysisForm input {
+    color: transparent;
+    width: 100px;
+    display: none;
+}
+
+.HashtagAnalysisForm label{
+    box-sizing: border-box;
+
+    width: 300px;
+    height: 50px;
+    border: 1px solid #075061;
+    padding: 10px;
+    font-size: 22px;
+    background-color:  rgba(131, 126, 126, 0.381);
+    color: #075061;
+    cursor: pointer;
+    transition: transform 80ms ease-in;
+}
+
+.HashtagAnalysisForm label:hover{
+    transform: scale(1.02);
+    background-color:  rgba(170, 165, 165, 0.381);
+}
+
+
+.HashtagAnalysisForm button {
+    box-sizing: border-box;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #075061;
+    background-color: rgb(230, 225, 225);
+    color: #075061;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    box-sizing: border-box;
+}
+
+.HashtagAnalysisForm button:active {
+    transform: scale(0.9);
+}
+
+.HashtagAnalysisForm button:hover {
+    border: 2px solid #075061;
+    background-color: #075061;
+    color: rgb(230, 225, 225);
+}
+
+.HashtagAnalysisForm button:focus {
+    outline: none;
+}

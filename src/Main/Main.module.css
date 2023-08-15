@@ -1,0 +1,15 @@
+.Main {
+    box-sizing: border-box;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: rgb(230, 225, 225);
+}
+
+.RightSide h2,
+.RightSide a {
+    text-align: center;
+    margin: 30px 0;
+    color: rgb(61, 61, 61);
+    font-size: 30px;
+    text-decoration: none;
+}

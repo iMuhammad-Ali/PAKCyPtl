@@ -1,0 +1,110 @@
+.Background {
+    margin-top: 115px;
+    min-width: 100%;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    top: 0;
+    padding: none;
+    position: fixed;
+    opacity: 0.7;
+    z-index: 90;
+}
+
+.Body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    z-index: 100;
+    box-sizing: border-box;
+}
+
+.Header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #075061;
+    width: 100%;
+    height: 140px;
+    border-bottom: 2px solid rgb(4, 53, 48);
+}
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.Header h1 {
+    color: white;
+    font-size: 60px;
+    display: inline-block;
+}
+
+.Header img {
+    width: 100px;
+    height: 100px;
+}
+
+.Logo img {
+    width: 120px;
+    height: 120px;
+}
+
+.Body ul {
+    padding: 0;
+}
+
+.Body h1:hover {
+    cursor: pointer;
+}
+
+.Body ul {
+    font-size: 21px;
+    display: inline-flex;
+    gap: 50px;
+    list-style: none;
+    margin-top: 70px;
+    color: white;
+}
+
+.Body ul li h2 {
+    width: 270px;
+    border: 2px solid rgb(4, 53, 48);
+    padding: 20px 35px;
+    border-radius: 10px;
+    background-color: #053b47d5;
+    margin: 0;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0px 2px 10px rgba(0, 0, 0, 0.52);
+}
+
+.Body ul li h4 {
+    background-color: #053b47d5;
+    margin-top: 10px;
+    width: 270px;
+    height: 320px;
+    vertical-align: middle;
+    line-height: 34px;
+    border: 2px solid rgb(4, 53, 48);
+    padding: 30px;
+    border-radius: 10px;
+    vertical-align: middle;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0px 2px 10px rgba(0, 0, 0, 0.52);
+}
+
+.Body ul li h2:hover,
+.Body ul li h4:hover {
+    cursor: pointer;
+    background-color: #0a4b5ad5;
+}
+
+.Body ul li a {
+    color: white;
+    text-decoration: none;
+}

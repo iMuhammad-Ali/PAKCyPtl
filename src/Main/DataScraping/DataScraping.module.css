@@ -1,0 +1,85 @@
+.DataScraping h2 {
+    text-align: center;
+    margin: 30px 0;
+    color: rgb(61, 61, 61);
+    font-size: 30px;
+}
+
+.DataScraping h3 {
+    margin-top: -10px;
+    text-align: center;
+    color: #075061;
+    font-size: 22px;
+    border-bottom: 2px solid #075061;
+    padding-bottom: 10px;
+}
+
+.DataScraper p,
+.DataScraper span {
+    font-weight: bold;
+    color: #075061
+}
+
+.DataScraper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.ScraperForm {
+    width: 30%;
+    padding: 30px;
+    border: 1.3px solid #075061;
+    border-radius: 10px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0 2px 2px rgba(0, 0, 0, 0.22);
+}
+
+.ScraperForm input {
+    box-sizing: border-box;
+    background-color: #ededed;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+    margin: 0 auto;
+    border: none;
+}
+
+.ScraperForm input:active,
+.ScraperForm input:focus {
+    outline: none;
+    border-bottom: 1px solid #075061;
+}
+
+.DataScraper button {
+    margin: auto;
+    margin-top: 40px;
+    display: block;
+    border-radius: 5px;
+    border: 2px solid #075061;
+    background-color: rgb(230, 225, 225);
+    color: #075061;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    box-sizing: border-box;
+}
+
+.DataScraper button:active {
+    transform: scale(0.9);
+}
+
+.DataScraper button:hover {
+    border: 2px solid #075061;
+    background-color: #075061;
+    color: rgb(230, 225, 225);
+}
+
+.DataScraper button:focus {
+    outline: none;
+}

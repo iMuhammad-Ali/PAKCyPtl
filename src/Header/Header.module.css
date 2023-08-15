@@ -1,0 +1,47 @@
+.Header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #075061;
+    height: 140px;
+    border-bottom: 2px solid rgb(4, 53, 48);
+}
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.Header h1 {
+    color: white;
+    font-size: 60px;
+    display: inline-block;
+}
+
+.Header img {
+    width: 100px;
+    height: 100px;
+}
+
+.Logo img {
+    width: 120px;
+    height: 120px;
+}
+
+.User {
+    border-left: 1px solid rgb(144, 144, 144);
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: rgb(144, 144, 144);
+    font-size: 20px;
+}
+
+.User img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}

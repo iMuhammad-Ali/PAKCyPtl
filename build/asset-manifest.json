@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75447376.css",
+    "main.js": "/static/js/main.6c622e87.js",
+    "static/js/787.0793d7b1.chunk.js": "/static/js/787.0793d7b1.chunk.js",
+    "static/media/video.mp4": "/static/media/video.1d1be0df0fb58d166380.mp4",
+    "static/media/Cm13.png": "/static/media/Cm13.192d918011423c24b31f.png",
+    "static/media/WordCloud.png": "/static/media/WordCloud.15b29b9b35f2c0ed0f04.png",
+    "static/media/hashMention.png": "/static/media/hashMention.1f43580d70d8ba2fa8b1.png",
+    "static/media/User Analytics.png": "/static/media/User Analytics.18c0bb513219bc8290c1.png",
+    "static/media/UEm12.png": "/static/media/UEm12.5ab5dce1040f0d86ffa6.png",
+    "static/media/PAKCyPtl-Logo.jpeg": "/static/media/PAKCyPtl-Logo.6503c9fe06a51e075daf.jpeg",
+    "static/media/linegraph2.png": "/static/media/linegraph2.624ec7653aae78c24390.png",
+    "static/media/sentimentalCA.png": "/static/media/sentimentalCA.ae83056ecde04abeaf2d.png",
+    "static/media/Hashtag analysis.png": "/static/media/Hashtag analysis.9b4745395486aaeae391.png",
+    "static/media/Profile Analysis.png": "/static/media/Profile Analysis.6a566340b0db3496da26.png",
+    "static/media/user.png": "/static/media/user.ee9b81887832d0073723.png",
+    "static/media/BarChart.png": "/static/media/BarChart.49a4296a1a486c333fb8.png",
+    "static/media/Follower Analysis.png": "/static/media/Follower Analysis.07575d966bbe97bf8059.png",
+    "static/media/SIMs database.png": "/static/media/SIMs database.d534536584da506a689d.png",
+    "static/media/NUST-Logo.png": "/static/media/NUST-Logo.854a1c5493c9875804c0.png",
+    "static/media/Data Scraping.png": "/static/media/Data Scraping.686ce706121aff58ea74.png",
+    "static/media/Competitive Analysis.png": "/static/media/Competitive Analysis.e7ac7ca1f79bbaf20323.png",
+    "static/media/OSINT framework.png": "/static/media/OSINT framework.e4f7e7658a305c6ced47.png",
+    "static/media/Proliferator Detection.png": "/static/media/Proliferator Detection.2e7026ceddc52bb075c1.png",
+    "static/media/Track Back.png": "/static/media/Track Back.2e7026ceddc52bb075c1.png",
+    "static/media/tweetcomparisonCa.PNG": "/static/media/tweetcomparisonCa.9395f2fbd7254397ecaf.PNG",
+    "index.html": "/index.html",
+    "main.75447376.css.map": "/static/css/main.75447376.css.map",
+    "main.6c622e87.js.map": "/static/js/main.6c622e87.js.map",
+    "787.0793d7b1.chunk.js.map": "/static/js/787.0793d7b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75447376.css",
+    "static/js/main.6c622e87.js"
+  ]
+}
